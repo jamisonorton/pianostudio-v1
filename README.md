@@ -1,6 +1,6 @@
 ## Project Scope
 
-This project is my code for a piano lesson appointment scheduler. It uses NextJS with Typescript, Prisma, ShadCN, Tailwind, and a postgres database built in docker. It is best to use the docker compose file that is included to create all of the necessary things to run this app on 1 VPS that will be hosted at [https://janesmusicstudio.com].
+This project is my code for a piano lesson appointment scheduler. It uses NextJS with Typescript, Prisma, ShadCN, Tailwind, and a postgres database built in docker. It is best to use the docker compose file that is included to create all of the necessary things to run this app on 1 VPS that will be hosted at [https://janesmusicstudio.com](janesmusicstudio.com).
 
 ## Getting Started
 
